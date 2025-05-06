@@ -1,0 +1,5 @@
+python-dotenv
+requests
+Telethon
+tzlocal
+websockets==11.0
